@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Completed IT Logger App",
+      "attention": false,
+      "tech": "Theodorus Clarence",
+      "date": "2020-09-11T05:01:46.629Z",
+      "id": 1
+    },
+    {
+      "message": "Found a bug on edit tech modal",
+      "attention": true,
+      "tech": "Bambang Sumanto",
+      "date": "2020-09-11T05:02:09.847Z",
+      "id": 2
+    },
+    {
+      "message": "Found a bug on search bar",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-09-11T05:02:22.474Z",
+      "id": 3
+    },
+    {
+      "message": "Make a video for IT Logger App",
+      "attention": true,
+      "tech": "Theodorus Clarence",
+      "date": "2020-09-11T05:02:59.344Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Theodorus",
+      "lastName": "Clarence",
+      "id": 4
+    },
+    {
+      "firstName": "Bambang",
+      "lastName": "Sumanto",
+      "id": 6
+    }
+  ]
+}
